@@ -1,20 +1,55 @@
 <resources>
-    <string name="app_name">SimpleCalculator</string>
+    <!-- Nama aplikasi yang akan ditampilkan di launcher dan di judul activity -->
+    <string name="app_name"></string>
+
+    <!-- Petunjuk untuk input angka pertama pada kalkulator -->
     <string name="enter_first_number">Enter first number</string>
+
+    <!-- Petunjuk untuk input angka kedua pada kalkulator -->
     <string name="enter_second_number">Enter second number</string>
+
+    <!-- Label untuk menampilkan hasil kalkulasi -->
     <string name="result">Result</string>
+
+    <!-- Teks untuk tombol penjumlahan -->
     <string name="add">Add</string>
+
+    <!-- Teks untuk tombol pengurangan -->
     <string name="subtract">Subtract</string>
+
+    <!-- Teks untuk tombol perkalian -->
     <string name="multiply">Multiply</string>
+
+    <!-- Teks untuk tombol pembagian -->
     <string name="divide">Divide</string>
+
+    <!-- Pesan kesalahan ketika input tidak valid -->
     <string name="invalid_input">Please enter valid numbers</string>
+
+    <!-- Pesan kesalahan ketika pembagian dengan nol terjadi -->
     <string name="division_by_zero">Cannot divide by zero</string>
+
+    <!-- Placeholder untuk hasil yang akan ditampilkan di TextView -->
     <string name="placeholder_result">Result will be shown here</string>
+
+    <!-- Petunjuk untuk input nama pada form biodata -->
     <string name="enter_name">Enter your name</string>
+
+    <!-- Petunjuk untuk input tempat lahir pada form biodata -->
     <string name="enter_place_of_birth">Enter your place of birth</string>
+
+    <!-- Petunjuk untuk input tanggal lahir pada form biodata -->
     <string name="enter_birth_date">Enter your date of birth</string>
+
+    <!-- Petunjuk untuk input umur pada form biodata -->
     <string name="enter_age">Enter your age</string>
+
+    <!-- Petunjuk untuk input nomor telepon pada form biodata -->
     <string name="enter_phone">Enter your phone number</string>
+
+    <!-- Label untuk bagian biodata -->
     <string name="biodata">Biodata</string>
+
+    <!-- Teks untuk tombol reset pada form biodata -->
     <string name="reset">Reset</string>
 </resources>

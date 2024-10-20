@@ -14,16 +14,16 @@
         tools:targetApi="31">
         <activity
             android:name=".DisplayBiodataActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".BiodataActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".CalendarActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".CalculatorActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="result">Result</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+    <string name="invalid_input">Please enter valid numbers</string>
+    <string name="division_by_zero">Cannot divide by zero</string>
+    <string name="placeholder_result">Result will be shown here</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_place_of_birth">Enter your place of birth</string>
+    <string name="enter_birth_date">Enter your date of birth</string>
+    <string name="enter_age">Enter your age</string>
+    <string name="enter_phone">Enter your phone number</string>
+    <string name="biodata">Biodata</string>
+    <string name="reset">Reset</string>
+</resources>
